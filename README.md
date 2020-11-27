@@ -12,7 +12,7 @@ Research for undergraduate thesis created by Bryan Mitchell and Andrew Cain
 
     @inproceedings{cain,
         Author = {Andrew Cain},
-        Title = {3D Monocular Tracking},
+        Title = {3D Monocular Collision Detection},
         Booktitle = {},
         Year = {2020}
     }
