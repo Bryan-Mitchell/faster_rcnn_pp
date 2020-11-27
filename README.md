@@ -22,5 +22,5 @@ Research for undergraduate thesis created by Bryan Mitchell and Andrew Cain
                         Wan-Yen Lo and Ross Girshick},
         title =        {Detectron2},
         howpublished = {\url{https://github.com/facebookresearch/detectron2}},
-        year =         {2019}
+        year =         {2019 }
     }
